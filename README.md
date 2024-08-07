@@ -16,9 +16,9 @@ The HuskyLens is a sophisticated AI vision sensor that can recognize faces. Upon
 -Power Supply: Provides power to both the Arduino and HuskyLens.
 
 # Setup Instructions
-1- Library Installation: Ensure the necessary libraries for the HuskyLens are installed in your Arduino IDE.
-2- Component Connections: Follow the HuskyLens documentation to connect the components correctly.
-3- Code Upload: Upload the code to the Arduino to process the face detection signal from the HuskyLens and control the LED.
+1. Library Installation: Ensure the necessary libraries for the HuskyLens are installed in your Arduino IDE.
+2. Component Connections: Follow the HuskyLens documentation to connect the components correctly.
+3. Code Upload: Upload the code to the Arduino to process the face detection signal from the HuskyLens and control the LED.
 
 # Pin Configuration
 
