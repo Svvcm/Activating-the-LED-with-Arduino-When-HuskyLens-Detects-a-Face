@@ -22,6 +22,12 @@ The HuskyLens is a sophisticated AI vision sensor that can recognize faces. Upon
 
 # Pin Configuration
 
+![WhatsApp Image 2024-08-06 at 18 23 52_848e617b](https://github.com/user-attachments/assets/95565e47-d993-4c79-8d6b-5af209597e7b)
+
+![Uploading WhatsApp Image 2024-08-06 at 18.24.03_05e39039.jpg…]()
+
+
+
 Arduino Digital Pin (Output): Use a pin like D13 to control the LED.
 
 Ground (GND) Pin: Connect the negative leg of the LED to the GND pin on the Arduino.
