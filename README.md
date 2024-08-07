@@ -29,5 +29,5 @@ HuskyLens Communication Pins: These pins will facilitate data exchange between t
 
 ![WhatsApp Image 2024-08-06 at 18 23 52_848e617b](https://github.com/user-attachments/assets/95565e47-d993-4c79-8d6b-5af209597e7b)
 
-![Uploading WhatsApp Image 2024-08-06 at 18.24.03_05e39039.jpg…]()
+![WhatsApp Image 2024-08-06 at 18 24 03_05e39039](https://github.com/user-attachments/assets/6a007a41-1131-4289-85ed-e072f3013ca8)
 
